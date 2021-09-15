@@ -1,0 +1,13 @@
+6
+*,b,*
+*,*,c
+foo,bar,baz
+w,x,*,*
+a,*,*
+*,x,y,z
+5
+/w/x/y/z/
+a/b/c
+foo/
+foo/bar/
+foo/bar/baz/
